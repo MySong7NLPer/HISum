@@ -1,6 +1,7 @@
 # HISum
 This repository provides the code of the paper [HISum: Hyperbolic Interaction Model for Extractive Multi-Document Summarization](https://dl.acm.org/doi/10.1145/3543507.3583197) (WWW2023).
 
+[Data and Checkpoints.](https://drive.google.com/drive/folders/1-qRH0A3MqaqtSgDzbiU-KHAg8KsN41sz?usp=drive_link)
 
 ## Dependencies
 - Python 3.7
